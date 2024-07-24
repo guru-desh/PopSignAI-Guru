@@ -11,3 +11,5 @@ This game can be built and run on Android/iOS devices using the latest version o
 2. Go to https://drive.google.com/drive/folders/1vauJWZtZJembjhGDiR_-rOxGdMIIA8yi?usp=sharing and download the file
 3. Unpack Plugins.zip in the MediaPipe folder and place it under Packages/com.github.homuler.mediapipe/Runtime
 4. Unpack Plugins.zip in the Tflite folder and place it under Packages/com.github.asus4.tflite/
+
+This is a dummy commit
